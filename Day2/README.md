@@ -7,9 +7,9 @@
 ## Azure DevOps Demo Generator
 **Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.**
 
-1. Navigate to https://azuredevopsdemogenerator.azurewebsites.net. This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab. 
+1. Navigate to https://azuredevopsdemogenerator.azurewebsites.net. This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab. **Note**: If use faced with issue related to Azure demo generator access (Error 403 - Forbidden .The web app you have attempted to reach has blocked your access.), solution has been provided in the video here: [Solutions for error 403](https://youtu.be/exmMQeBynMM)
 
-2. Sign in using the Microsoft account associated with your Azure DevOps subscription.
+3. Sign in using the Microsoft account associated with your Azure DevOps subscription.
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/33feacfa-47bb-4861-b87d-d026e1eb36ee)
 
